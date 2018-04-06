@@ -45,4 +45,9 @@ will not be high enough.
 
 If lambda is twice delta (100 and 50), the ESS is 139.8561. If the opposite is true, the ESS is similar at 151.9056.  
 
+
+
+
+
+
 ##Try to have this done by the end of the work week, but if it's done by the end of spring break, that's OK, too.
